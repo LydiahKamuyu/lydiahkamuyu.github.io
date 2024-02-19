@@ -2,7 +2,7 @@
 date: 2019-05-16 23:48:05
 layout: post
 title: Welcome aboard, cyber enthusiasts!
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+subtitle: 'Dive into a realm where cybersecurity intertwines with innovation and knowledge, offering practical write-ups covering various aspects of digital defense.'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
